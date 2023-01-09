@@ -41,4 +41,6 @@ fun main() {
     }
     println("Successfully registered!!!")
 
+    print("done")
+
 }
